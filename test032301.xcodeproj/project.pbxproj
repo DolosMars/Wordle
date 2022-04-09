@@ -11,6 +11,7 @@
 		5958404827EB2D750066BD77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5958404727EB2D750066BD77 /* ContentView.swift */; };
 		5958404A27EB2D7F0066BD77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5958404927EB2D7F0066BD77 /* Assets.xcassets */; };
 		5958404D27EB2D7F0066BD77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5958404C27EB2D7F0066BD77 /* Preview Assets.xcassets */; };
+		5958405627EB54C10066BD77 /* game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5958405527EB54C10066BD77 /* game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5958404927EB2D7F0066BD77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5958404C27EB2D7F0066BD77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5958404E27EB2D7F0066BD77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5958405527EB54C10066BD77 /* game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				5958404527EB2D750066BD77 /* test032301App.swift */,
 				5958404727EB2D750066BD77 /* ContentView.swift */,
+				5958405527EB54C10066BD77 /* game.swift */,
 				5958404927EB2D7F0066BD77 /* Assets.xcassets */,
 				5958404E27EB2D7F0066BD77 /* Info.plist */,
 				5958404B27EB2D7F0066BD77 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5958405627EB54C10066BD77 /* game.swift in Sources */,
 				5958404827EB2D750066BD77 /* ContentView.swift in Sources */,
 				5958404627EB2D750066BD77 /* test032301App.swift in Sources */,
 			);
